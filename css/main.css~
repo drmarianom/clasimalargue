@@ -35,7 +35,7 @@ a:hover {
 
 /* corregir: no aplicar estilos generales */
 
-a img {
+img {
   border: 2px solid transparent;
   color: black;
 }
@@ -43,9 +43,5 @@ a img {
 a:hover img {
   border: 2px solid gray;
   color: gray;
-}
-
-td {
-  background: #EEEEEE;
 }
 
