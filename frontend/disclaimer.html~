@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>clasimalargue</title>
+    <link rel="stylesheet" href="../css/main.css" type="text/css" media="all" />
+  </head>
+  <body>
+
+  <h2>Aviso legal</h2>
+    <ul>
+  <li>Este sitio tiene por finalidad comunicar las partes vendedora y compradora para un mismo bien.</li>
+  <li>No se pretende obtener dinero alguno de la operación que resultare de la operación de ambas partes.</li>
+    </ul>
+  </body>
+</html>

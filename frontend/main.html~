@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>ClasiMalargue: cllasificados de Malargüe para Malargüe</title>
+    <link rel="stylesheet" href="../css/main.css" type="text/css" media="all" />
+    <link rel="shortcut icon" href="../images/favicon.ico">
+  </head>
+  <body>
+    <!-- header begin -->
+    <div style="border-bottom: 1px solid silver; background-color:orange;">
+      <table border="0" width="100%">
+        <tr>
+      <td align="center" width="300">
+        <img src="../images/logo.png" height="40px">
+        <img src="../images/logo4.png" height="40px">
+      </td>
+      <td align="center" nowrap>
+        <input type="text" style="font-size: 26px; width: 70%;" />
+        <button style="font-size: 26px;"><img src="../images/ilupa.png" width="18px" /> Buscar</button>
+      </td>
+      <td width="300" align="center">
+        <div>drmarianom</div>
+        <img src="../images/isexmasc.png" title="perfil" width="30px" />
+        <img src="../images/ioptions.png" title="opciones" width="30px" />
+        <img src="../images/ihelp.png" title="ayuda" width="30px" />
+      </td>
+        </tr>
+      </table>
+    </div>
+    <!-- header end -->
+    <!-- body begin -->
+    <div style="border:1px solid silver; margin:30px 100px 30px 100px; text-align:center;">
+      <div>Publicaciones recientes</div>
+      <table border="0" width="100%">
+        <tr>
+      <td><a href="#"><img src="../images/ileft.png" /></a></td>
+      <td><a href="detail.html"><img src="../images/publicaciones/producto-size-1.jpg" width="100px" /><div>producto</div><div>$100</div></a></td>
+      <td><a href="detail.html"><img src="../images/publicaciones/producto-size-1.jpg" width="100px" /><div>producto</div><div>$100</div></a></td>
+      <td><a href="detail.html"><img src="../images/publicaciones/producto-size-1.jpg" width="100px" /><div>producto</div><div>$100</div></a></td>
+      <td><a href="detail.html"><img src="../images/publicaciones/producto-size-1.jpg" width="100px" /><div>producto</div><div>$100</div></a></td>
+      <td><a href="detail.html"><img src="../images/publicaciones/producto-size-1.jpg" width="100px" /><div>producto</div><div>$100</div></a></td>
+      <td><a href="detail.html"><img src="../images/publicaciones/producto-size-1.jpg" width="100px" /><div>producto</div><div>$100</div></a></td>
+      <td><a href="#"><img src="../images/iright.png" /></a></td>
+        </tr>
+      </table>
+    </div>
+    <div style="border:1px solid silver; margin:30px 100px 30px 100px; text-align:center;">
+      <div>Principales categrorías</div>
+      Categorías<br/>
+      Categorías<br/>
+      Categorías<br/>
+      Categorías<br/>
+      Categorías<br/>
+      Categorías<br/>
+      Categorías<br/>
+      Categorías<br/>
+      Categorías<br/>
+    </div>
+    <!-- body end -->
+    <!-- foot begin -->
+    <div class="footer">
+      ClasiMalargüe 2015 - Clasificados de Malargüe
+    </div>
+    <!-- foot end -->
+  </body>
+</html>
