@@ -17,12 +17,13 @@
       </td>
         </tr>
         <tr>
-      <td align="center"><br/>
-        <div><a href="#"><img src="../images/publicaciones/producto-size-1.jpg" width="60px" /></a></div>
-        <div><a href="#"><img src="../images/publicaciones/producto-size-1.jpg" width="60px" /></a></div>
-        <div><a href="#"><img src="../images/publicaciones/producto-size-1.jpg" width="60px" /></a></div>
-        <div><a href="#"><img src="../images/publicaciones/producto-size-1.jpg" width="60px" /></a></div>
-        <div><a href="#"><img src="../images/publicaciones/producto-size-1.jpg" width="60px" /></a></div>
+      <td align="center">
+        <h4>Galería</h4>
+        <div><a href="#"><img src="../images/publicaciones/producto-size-1.jpg" width="60px" style="border:1px solid silver;" /></a></div>
+        <div><a href="#"><img src="../images/publicaciones/producto-size-1.jpg" width="60px" style="border:1px solid silver;" /></a></div>
+        <div><a href="#"><img src="../images/publicaciones/producto-size-1.jpg" width="60px" style="border:1px solid silver;" /></a></div>
+        <div><a href="#"><img src="../images/publicaciones/producto-size-1.jpg" width="60px" style="border:1px solid silver;" /></a></div>
+        <div><a href="#"><img src="../images/publicaciones/producto-size-1.jpg" width="60px" style="border:1px solid silver;" /></a></div>
       </td>
       <td style="text-align: center;">
 	<h2>Titulo Titulo Titulo Titulo</h2>
